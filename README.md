@@ -21,10 +21,10 @@
     - burro
   - preparazione:
     - scioglire del burro nell'olio nella cocotte
-    - arrostire le 4 parti dell'arrosto (2 minuti per parte, 1 minuto per le 2 facce piccole) e metterlo da parte
+    - arrostire (= fuoco alto) le 4 parti dell'arrosto (2 minuti per parte, 1 minuto per le 2 facce piccole) e metterlo da parte
     - tagliare a dadini la cipolla
     - soffriggere la cipollai sopra l'arrostino
     - addobbare con gli aromi
-    - chiudere e cucinare per 40 minuti
+    - chiudere e cucinare per 40 minuti (fuoco basso)
   - References:
     - [Rôti de porc moelleux en cocotte](https://www.youtube.com/watch?v=x-_Svk2bFZk)

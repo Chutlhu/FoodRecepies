@@ -6,8 +6,8 @@
   - Ingredienti:
     - arrostino di pollo (ca. gr)
   - preparation:
-    - 145 °C a combinata convezione-vapore per 30 min
-    - 180 °C a convezione per colore l'arrosto fino a cottura ultimata (72 °C con la sonda)
+    - 145 °C a combinata convezione-vapore per 30 min su teglia coi buchi sopra
+    - 180 °C a convezione per colore l'arrosto fino a cottura ultimata (72 °C con la sonda) [aggunta patate]
   - Reference:
     - [Tecnica di arrosimento, Corriere della sera](https://cucina.corriere.it/rubriche/scuola-di-cucina/25-febbraio-2010/tecnica-cottura-arrostimento_1f81d02e-221c-11df-8195-00144f02aabe.shtml)
 
